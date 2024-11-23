@@ -15,6 +15,7 @@ ff02::3 ip6-allhosts
 #=====================================
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
+
 0.0.0.0 www.atdmt.com
 0.0.0.0 www.doubleclick.net
 0.0.0.0 doubleclick.net
@@ -111,3 +112,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 youknowbest.com
 0.0.0.0 yumenetworks.com
 0.0.0.0 ads.samsung.com
+0.0.0.0 beacons.digital.disneyadvertising.com
+0.0.0.0 ^.*\.disneyadvertising.com
+0.0.0.0 api.mercadolibre.com
+0.0.0.0 instantmessaging-pa-jms-us.googleapis.com
+0.0.0.0 us-east-1.ads.digital.disneyadvertising.com
+0.0.0.0 sc-ecentral01.venturus.local
+0.0.0.0 _bradfordagent._tcp
+0.0.0.0 ^.*\_bradfordagent.^.*\
