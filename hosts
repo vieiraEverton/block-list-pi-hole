@@ -120,3 +120,26 @@ ff02::3 ip6-allhosts
 0.0.0.0 sc-ecentral01.venturus.local
 0.0.0.0 _bradfordagent._tcp
 0.0.0.0 ^.*\_bradfordagent.^.*\
+0.0.0.0 beacons.digital.disneyadvertising.com
+0.0.0.0 api.mercadolibre.com
+0.0.0.0 instantmessaging-pa-jms-us.googleapis.com
+0.0.0.0 desktop.venturus.org.br
+0.0.0.0 us-east-1.ads.digital.disneyadvertising.com
+0.0.0.0 ads.digital.disneyadvertising.com
+0.0.0.0 _bradfordagent._tcp
+0.0.0.0 _bradfordagent._tcp.lan
+0.0.0.0 sc-ecentral01.venturus.local
+0.0.0.0 _bradfordagent._tcp.--
+0.0.0.0 androidtvwatsonfe-pa.googleapis.com
+0.0.0.0 cdn-aka.ts.mtvnservices.com
+0.0.0.0 media.mtvnservices.com.venturus.org.br
+0.0.0.0 ^([a-zA-Z0-9-]+\.)*venturus\.org\.br$
+0.0.0.0 ^([a-zA-Z0-9-]+\.)*venturus\.local$
+0.0.0.0 br.rdx2.lgtvsdp.com
+0.0.0.0 avsxappcaptiveportal.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 .*googlevideo.*
+0.0.0.0 br.lgtvsdp.com
+0.0.0.0 forticlient.fortinet.net
+0.0.0.0 \b\w*?venturus\.local\w*?\b
+
