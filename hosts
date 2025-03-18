@@ -142,4 +142,20 @@ ff02::3 ip6-allhosts
 0.0.0.0 br.lgtvsdp.com
 0.0.0.0 forticlient.fortinet.net
 0.0.0.0 \b\w*?venturus\.local\w*?\b
+0.0.0.0 venturus.local^$important
+0.0.0.0 fortinet.net^$important
+0.0.0.0 desktop.venturus.org.br^$important
+0.0.0.0 doubleclick.net^$important
+0.0.0.0 playlist.ttvnw.net^$important
+0.0.0.0 amazon-adsystem.com^$important
+0.0.0.0 adtrafficquality.google^$important
+0.0.0.0 paramount-mir.fwgtm.akadns.net^$important
+0.0.0.0 naeda.fwgtm.akadns.net^$important
+0.0.0.0 track-us.adformnet.akadns.net^$important
+0.0.0.0 southparkstudios.com.br.ssl.sc.omtrdc.net^$important
+0.0.0.0 sb.adtidy.org^$important
+0.0.0.0 e6824.dsca.akamaiedge.net^$important
+0.0.0.0 venturus.soc.gemina.io^$important
+0.0.0.0 gemina.io^$important
+
 
